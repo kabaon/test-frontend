@@ -1,5 +1,3 @@
-#alert("はろー、ぎっとはぶ");
-
 let ipt = document.querySelector
 ('input');
 
