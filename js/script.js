@@ -6,7 +6,7 @@ let ipt = document.querySelector
 let btn = document.querySelector
 ('button');
 
-let elem = document.querySelector('p1');
+let elem = document.querySelector('p');
 btn.addEventListener('click', () => {
   elem.innerText = ipt.value;
 } );
